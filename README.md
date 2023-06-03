@@ -33,6 +33,12 @@ body {
   background-color: #990a00;
   color: white;
 }
+   h1 {
+      color: #FFF;
+      font-family: 'Playfair Display', serif;
+      font-size: 36px;
+      margin: 0;
+    }
 </style>
 </head>
 <body>
