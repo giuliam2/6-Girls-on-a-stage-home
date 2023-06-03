@@ -108,7 +108,7 @@ footer {
 <br><br><br>
   <h1 align="center"><span style="font-family:Georgia,serif">A journey into the discovery of music</span></h1>
 <br>
-  <p align="center">Lorem ipsum <b>dolor</b> sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p align="center">Lorem ipsum <b>dolor</b> sit amet, consectetur adipisici elit, sed eiusmod <i>tempor</i> incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <br><br><br>
 
@@ -117,19 +117,19 @@ footer {
 
 
 <div class="container">
-  <a href="https://bella2402.github.io"><img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-theater.jpg" alt="Snow" style="width:100%;">
+  <a href="https://bella2402.github.io"><img src="progetto/pics/home-theater.jpg" alt="Snow" style="width:100%;">
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Theaters and Classical Music</span></h2></div>
 </div>
 <br> 
 
 <div class="container">
-  <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm"><img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-rock.jpg" alt="Snow" style="width:100%;">
+  <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm"><img src="progetto/pics/home-rock.jpg" alt="Snow" style="width:100%;">
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rock Music</span></h2></div>
 </div>
 <br>
 
 <div class="container">
-  <a href="https://bella2402.github.io"><img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-guitar.jpg" alt="Snow" style="width:100%;">
+  <a href="https://bella2402.github.io"><img src="progetto/pics/home-guitar.jpg" alt="Snow" style="width:100%;">
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Guitars</span></h2></div>
 </div>
 <br><br>
