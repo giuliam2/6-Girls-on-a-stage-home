@@ -96,7 +96,6 @@ footer {
 
 <div class="container">
   <img src="progetto/pics/home-mic.jpg" alt="Snow" style="width:100%;">
-  
   <div class="top-left"><h1 align="left"><span style="font-family:Georgia,serif">Six girls <br>on a stage</span></h1></div>
 
 </div>
@@ -118,20 +117,19 @@ footer {
 
 
 <div class="container">
-  <a href="https://bella2402.github.io"><img src="progetto/pics/home-theater.jpg" alt="Theaters and Classical Music" style="width:100%;">
-  <div class="bottom-right">Bottom Right</div>
+  <a href="https://bella2402.github.io"><img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-theater.jpg" alt="Snow" style="width:100%;">
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Theaters and Classical Music</span></h2></div>
 </div>
+<br> 
 
 <div class="container">
-  <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm"><img src="progetto/pics/home-rock.jpg" alt="Snow" style="width:100%;">
-  <div class="bottom-right">Bottom Right</div>
+  <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm"><img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-rock.jpg" alt="Snow" style="width:100%;">
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rock Music</span></h2></div>
 </div>
+<br>
 
 <div class="container">
-  <a href="https://bella2402.github.io"><img src="progetto/pics/home-guitar.jpg" alt="Guitar" style="width:100%;">
-  <div class="bottom-right">Bottom Right</div>
+  <a href="https://bella2402.github.io"><img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-guitar.jpg" alt="Snow" style="width:100%;">
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Guitars</span></h2></div>
 </div>
 <br><br>
