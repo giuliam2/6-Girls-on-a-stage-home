@@ -95,7 +95,7 @@ footer {
 <body>
 
 <div class="container">
-  <img src="C:\Users\giuli\Desktop\UNIBO\informatica\progetto\pics\home-mic.jpg" alt="Snow" style="width:100%;">
+  <img src="progetto/pics/home-mic.jpg" alt="Snow" style="width:100%;">
   
   <div class="top-left"><h1 align="left"><span style="font-family:Georgia,serif">Six girls <br>on a stage</span></h1></div>
 
