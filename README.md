@@ -69,7 +69,6 @@ body {
   transform: translate(-50%, -100%);
 }
 
-/* Style the footer */
 footer {
   background-color: #990a00;
   padding: 10px;
