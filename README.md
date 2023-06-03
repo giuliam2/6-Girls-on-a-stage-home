@@ -39,7 +39,7 @@ body {
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
-  <a href="https://bella2402.github.io">Theater</a>
+  <a href="https://bella2402.github.io">Theatre</a>
   <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
   <a href="#Guitars">Guitars</a>
   <a href="#Our Report">Our Reports</a>
@@ -118,13 +118,13 @@ footer {
 
 <div class="container">
   <a href="https://bella2402.github.io"><img src="progetto/pics/home-theater.jpg" alt="Snow" style="width:100%;">
-  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Theaters and Classical Music</span></h2></div>
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Theaters</span></h2></div>
 </div>
 <br> 
 
 <div class="container">
   <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm"><img src="progetto/pics/home-rock.jpg" alt="Snow" style="width:100%;">
-  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rock Music</span></h2></div>
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif"> RockMusic </span></h2></div>
 </div>
 <br>
 
