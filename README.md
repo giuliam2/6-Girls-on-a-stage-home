@@ -41,7 +41,7 @@ body {
   <a class="active" href="#home">Home</a>
   <a href="https://bella2402.github.io">Theatre</a>
   <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
-  <a href="#Guitars">Guitars</a>
+  <a href="https://github.com/Bella2402/6girls">Guitars</a>
   <a href="#Our Report">Our Reports</a>
 </div>
 
