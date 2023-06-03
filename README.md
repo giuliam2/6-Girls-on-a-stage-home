@@ -84,9 +84,9 @@ footer {
 <div class="topnav">
   <a class="active" href="#home">Home</a>
   <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/">Theatre</a>
-  <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
+  <a href="https://giuliam2.github.io/Exploring-the-rock-music-genre">Rock Music</a>
   <a href="https://bella2402.github.io/The-History-of-the-Guitar/">Guitars</a>
-  <a href="#Our Report">Our Reports</a>
+  <a href="https://giuliam2.github.io/Reports/">Our Reports</a>
 </div>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -123,22 +123,22 @@ footer {
 
 
 <div class="container">
-  <a href="https://bella2402.github.io"><img src="progetto/pics/home-theater.jpg" alt="Snow" style="width:100%;">
-  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Theaters</span></h2></div>
+  <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/"><img src="progetto/pics/home-theater.jpg" alt="theatre" style="width:100%;">
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Theatres and classical music</span></h2></div>
 </div>
 <br> 
 
 <div class="container">
-  <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm"><img src="progetto/pics/home-rock.jpg" alt="Snow" style="width:100%;">
-  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif"> RockMusic </span></h2></div>
+  <a href="https://giuliam2.github.io/Exploring-the-rock-music-genre/"><img src="progetto/pics/home-rock.jpg" alt="Rock Music" style="width:100%;">
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rock Music</span></h2></div>
 </div>
 <br>
 
 <div class="container">
-  <a href="https://bella2402.github.io"><img src="progetto/pics/home-guitar.jpg" alt="Snow" style="width:100%;">
-  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Guitars</span></h2></div>
+  <a href="https://bella2402.github.io/The-History-of-the-Guitar/" alt="Guitar" style="width:100%;">
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">History of the guitar</span></h2></div>
 </div>
-<br><br>
+<br>
 
 
 <footer>
