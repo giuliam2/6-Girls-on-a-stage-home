@@ -122,7 +122,7 @@ footer {
 
 
 <div class="container">
-  <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/"><img src="progetto/pics/home-theater.jpg" alt="theatre" style="width:100%;">
+  <a href="https://giuliam2.github.io/Exploring-the-rock-music-genre/"><img src="progetto/pics/home-rock.jpg" alt="theatre" style="width:100%;">
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Theatres and classical music</span></h2></div>
 </div>
 <br> 
@@ -134,9 +134,10 @@ footer {
 <br>
 
 <div class="container">
-  <a href="https://bella2402.github.io/The-History-of-the-Guitar/" alt="Guitar" style="width:100%;">
-  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">History of the guitar</span></h2></div>
+  <a href="https://bella2402.github.io/The-History-of-the-Guitar/"><img src="progetto/pics/home-guitar.jpg" alt="Rock Music" style="width:100%;">
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rock Music</span></h2></div>
 </div>
+
 <br>
 
 
