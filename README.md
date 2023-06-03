@@ -40,7 +40,7 @@ body {
       margin: 0;
     }
 </style>
-</head>
+  
 <body>
 
 <div class="topnav">
@@ -112,7 +112,7 @@ footer {
 
 <div class="w3-container">
 <br><br><br>
-  <h1 style="color: black; align="center"><span style="font-family:Georgia,serif">A journey into the discovery of music</span></h1>
+  <h1 align="center"><span style="font-family:Georgia,serif; color = serif">A journey into the discovery of music</span></h1>
 <br>
   <p align="center">Lorem ipsum <b>dolor</b> sit amet, consectetur adipisici elit, sed eiusmod <i>tempor</i> incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
