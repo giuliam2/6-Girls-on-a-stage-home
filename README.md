@@ -40,18 +40,6 @@ body {
       margin: 0;
     }
 </style>
-  
-<body>
-
-<div class="topnav">
-  <a class="active" href="#home">Home</a>
-  <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/">Theatre</a>
-  <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
-  <a href="https://bella2402.github.io/The-History-of-the-Guitar/">Guitars</a>
-  <a href="#Our Report">Our Reports</a>
-</div>
-
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .container {
   position: relative;
@@ -90,6 +78,18 @@ footer {
 }
 
 </style>
+  
+<body>
+
+<div class="topnav">
+  <a class="active" href="#home">Home</a>
+  <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/">Theatre</a>
+  <a href="file:///C:/Users/giuli/Desktop/UNIBO/informatica/progetto/1.%20Storia%20Rock.htm">Rock Music</a>
+  <a href="https://bella2402.github.io/The-History-of-the-Guitar/">Guitars</a>
+  <a href="#Our Report">Our Reports</a>
+</div>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
 
