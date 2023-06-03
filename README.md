@@ -56,7 +56,7 @@ body {
 .top-left {
   position: absolute;
   top: 90px;
-  left: 120px;
+  left: 110px;
 }
 
 </style>
@@ -109,7 +109,7 @@ footer {
 <br><br><br>
   <h1 align="center"><span style="font-family:Georgia,serif">A journey into the discovery of music</span></h1>
 <br>
-  <p align="center">Lorem ipsum dolor sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p align="center">Lorem ipsum <b>dolor</b> sit amet, consectetur adipisici elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
 <br><br><br>
 
