@@ -55,8 +55,8 @@ body {
 
 .top-left {
   position: absolute;
-  top: 120px;
-  left: 160px;
+  top: 100px;
+  left: 140px;
 }
 
 </style>
