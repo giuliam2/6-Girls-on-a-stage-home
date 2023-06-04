@@ -113,7 +113,8 @@ footer {
 <br><br><br>
   <h1 align="center"><span style="font-family:Georgia,serif; color: black">A journey into the discovery of music</span></h1>
 <br>
-  <p align="center">Lorem ipsum <b>dolor</b> sit amet, consectetur adipisici elit, sed eiusmod <i>tempor</i> incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p align="center">If you are interested in <b>music</b>, then you are in the right place. We are 6 girls who have a dream: to spread our love for music. In this website you will find interesting news about various aspects of the musical world: from the classical theaters of England to the more strident rock music that travels around the world to the sound of a guitar. Let yourself get carried away by the lightness and at the same time the energy that music offers, on this journey that takes you around the world and stir unique emotions. Explore our website with its sections divided by topic that will help you better understand what lies at the heart of music.
+</p>
 
 <br><br><br>
 
