@@ -40,6 +40,8 @@ body {
       margin: 0;
     }
 
+</style>
+<style>
 .container {
   position: relative;
   text-align: center;
