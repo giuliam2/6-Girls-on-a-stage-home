@@ -42,7 +42,7 @@ body {
 </style>
 <style>
 .container {
-  position: absolute;
+  position: relative;
   text-align: center;
   color: white;
 }
@@ -57,7 +57,7 @@ body {
 
 <style>
 .container {
-  position: relative;
+  position: absolute;
   text-align: center;
   color: white;
 }
