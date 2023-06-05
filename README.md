@@ -127,7 +127,7 @@ footer {
 
 <div class="container">
   <a href="https://bella2402.github.io/The-History-of-the-Guitar/"><img src="progetto/pics/home-guitar.jpg" alt="The History of the Guitar" style="width:100%;"></a>
- <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rock Music</span></h2>
+ <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">The History of the Guitar</span></h2>
 </div>
   </div>
 
