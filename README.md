@@ -39,7 +39,8 @@ body {
       font-size: 36px;
       margin: 0;
     }
-
+</style>
+<style>
 .container {
   position: relative;
   text-align: center;
