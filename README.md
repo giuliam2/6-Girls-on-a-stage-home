@@ -40,8 +40,7 @@ body {
       margin: 0;
     }
 
-</style>
-<style>
+
 .container {
   position: relative;
   text-align: center;
@@ -115,20 +114,20 @@ footer {
 
 
 <div class="container">
-  <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/"><img src="progetto/pics/home-theater.jpg" alt="theatre" style="width:100%;">
+  <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/"><img src="progetto/pics/home-theater.jpg" alt="theatre" style="width:100%;"></a>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Theatres and classical music</span></h2></div>
 </div>
 <br> 
 
 <div class="container">
-  <a href="https://giuliam2.github.io/Exploring-the-rock-music-genre/"><img src="progetto/pics/home-rock.jpg" alt="Rock Music" style="width:100%;">
+  <a href="https://giuliam2.github.io/Exploring-the-rock-music-genre/"><img src="progetto/pics/home-rock.jpg" alt="Rock Music" style="width:100%;"></a>
   <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rock Music</span></h2></div>
 </div>
 <br>
 
 <div class="container">
-  <a href="https://bella2402.github.io/The-History-of-the-Guitar/"><img src="progetto/pics/home-guitar.jpg" alt="Guitar" style="width:100%;">
- 
+  <a href="https://bella2402.github.io/The-History-of-the-Guitar/"><img src="progetto/pics/home-guitar.jpg" alt="Guitar" style="width:100%;"></a>
+ <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rock Music</span></h2>
 </div>
   </div>
 
