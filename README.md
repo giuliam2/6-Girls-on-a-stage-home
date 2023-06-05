@@ -70,7 +70,7 @@ footer {
 
 </style>
 </head>
-<body>
+
 
 <div class="topnav">
   <a class="active" href="#home">Home</a>
@@ -88,9 +88,9 @@ footer {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-
+<body>
 <div class="container">
-  <img src="progetto/pics/home-mic.jpg" alt="Snow" style="width:100%;">
+  <img src="progetto/pics/home-mic.jpg" alt="Six girls" style="width:100%;">
   <div class="top-left"><h1 align="left"><span style="font-family:Georgia,serif">Six girls <br>on a stage</span></h1></div>
 
 </div>
