@@ -1,3 +1,4 @@
+
 <html>
 <head>
 
@@ -38,8 +39,7 @@ body {
       font-size: 36px;
       margin: 0;
     }
-</style>
-<style>
+
 .container {
   position: relative;
   text-align: center;
@@ -52,14 +52,7 @@ body {
   left: 110px;
 }
 
-</style>
 
-<style>
-.container {
-  position: absolute;
-  text-align: center;
-  color: white;
-}
 
 .centered {
   position: absolute;
@@ -95,8 +88,6 @@ footer {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 
-
-<body>
 
 <div class="container">
   <img src="progetto/pics/home-mic.jpg" alt="Snow" style="width:100%;">
@@ -147,4 +138,5 @@ footer {
 </footer>
 
 </body>
-</html>
+</html> 
+
