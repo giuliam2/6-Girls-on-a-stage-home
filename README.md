@@ -42,7 +42,7 @@ body {
 </style>
 <style>
 .container {
-  position: relative;
+  position: absolute;
   text-align: center;
   color: white;
 }
@@ -135,7 +135,7 @@ footer {
 <br>
 
 <div class="container">
-  <a href="https://bella2402.github.io/The-History-of-the-Guitar/"><img src="progetto/pics/home-guitar.jpg" alt="Rock Music" style="width:100%;">
+  <a href="https://bella2402.github.io/The-History-of-the-Guitar/"><img src="progetto/pics/home-guitar.jpg" alt="Guitar" style="width:100%;">
  
 </div>
   </div>
