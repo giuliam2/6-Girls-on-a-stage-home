@@ -33,15 +33,12 @@ body {
   background-color: #990a00;
   color: white;
 }
-   
-
-h1 {
+   h1 {
       color: #FFF;
       font-family: 'Playfair Display', serif;
       font-size: 36px;
       margin: 0;
     }
-
 
 .container {
   position: relative;
@@ -56,6 +53,11 @@ h1 {
 }
 
 
+.container {
+  position: absolute;
+  text-align: center;
+  color: white;
+}
 
 .centered {
   position: absolute;
@@ -83,12 +85,20 @@ footer {
   <a href="https://giuliam2.github.io/Reports/">Our Reports</a>
 </div>
 
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+
+<body>
 
 <div class="container">
   <img src="progetto/pics/home-mic.jpg" alt="Snow" style="width:100%;">
-  <div class="top-left">
-<h1 align="left"><span style="font-family:Georgia,serif">Six girls <br>on a stage</span></h1></div>
+  <div class="top-left"><h1 align="left"><span style="font-family:Georgia,serif">Six girls <br>on a stage</span></h1></div>
 
 </div>
 
