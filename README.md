@@ -1,4 +1,3 @@
-
 <html>
 <head>
 
@@ -52,10 +51,10 @@ body {
   top: 90px;
   left: 110px;
 }
+
 </style>
 
 <style>
-
 .container {
   position: absolute;
   text-align: center;
@@ -148,5 +147,4 @@ footer {
 </footer>
 
 </body>
-</html> 
-
+</html>
