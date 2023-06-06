@@ -115,7 +115,7 @@ footer {
 
 <div class="container">
   <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/"><img src="progetto/pics/home-theater.jpg" alt="theatre" style="width:100%;"></a>
-  <a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/"><div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Theatres and classical music</span></h2></div>
+  <div class="centered"><a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/"><h2 align="center"><span style="font-family:Georgia,serif">Theatres and classical music</span></h2></div>
 </div>
 <br> 
 
