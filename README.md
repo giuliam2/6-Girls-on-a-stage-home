@@ -1,4 +1,3 @@
-
 <html>
 <head>
 
@@ -121,7 +120,7 @@ footer {
 
 <div class="container">
   <a href="https://giuliam2.github.io/Exploring-the-rock-music-genre/"><img src="progetto/pics/home-rock.jpg" alt="Exploring the Rock Music genre" style="width:100%;"></a>
-  <div class="centered"><h2 align="center"><a href="https://bella2402.github.io/Theatres-in-the-UK-and-Classical-Music/"><span style="font-family:Georgia,serif">Rock Music</span></a></h2></div>
+  <div class="centered"><h2 align="center"><span style="font-family:Georgia,serif">Rock Music</span></h2></div>
 </div>
 <br>
 
@@ -140,4 +139,3 @@ footer {
 
 </body>
 </html> 
-
